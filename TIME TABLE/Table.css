@@ -1,0 +1,25 @@
+table
+{
+    border: 2px solid;
+    width:100% ;
+    border-color: white;
+     padding: 5px 5px; 
+     border-collapse: separate;
+     border-spacing:  0 5px; 
+    
+}
+th
+{
+    border: 2px solid;
+    border-color: white;
+    padding: 8px 8px;
+    background-color: beige;
+    
+}
+td{
+    border: 2px solid;
+    border-color: white;
+    padding: 8px 8px;
+    color: white;
+    text-align: center;    
+}

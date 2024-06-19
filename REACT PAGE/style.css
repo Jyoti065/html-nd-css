@@ -1,0 +1,116 @@
+.image{
+    width: 60px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 8px ;
+}
+.search{
+    display: flex;
+    align-items: center;
+    margin-left: 3px;
+    margin-top: -3px;
+}
+span{
+    position: relative;
+    top: -26px;
+    left: 65px;
+}
+i{
+    position: relative;
+    top: -45px;
+    left: 130px;
+}
+input{
+    height: 20px;
+    width: 400px;
+    border-radius: 20px;
+    position: relative;
+    top: -43px;
+    left: 130px;
+}
+ul{
+    list-style: none;
+    margin-left: 550px;
+    margin-top: -65px;
+}
+li a{
+    display: inline-block;
+    margin-right: 50px;
+    text-decoration: none;
+    color: #0a3a64; 
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+.moon{
+    position: relative;
+    height: 40px;
+    top: -2px;
+    margin-left: 950px;
+    font-size: 30px;
+}
+.lang
+{
+    margin-left: 1000px;
+    position: relative;
+    top: -42px;
+    font-size: 30px;
+}
+.hub{
+    margin-left: 1065px;
+    position: relative;
+    top: -78px;
+    font-size: 30px;
+    
+}
+.picture
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+
+}
+.text{
+    text-align: center;
+    margin-left:500px;
+    font-size: 50px;
+    top: 30px;
+    letter-spacing: 3px;
+    position: relative;
+    top: 13px;
+}
+p{
+    text-align: center;
+    font-size: 22px;
+    letter-spacing: 3px;
+    position: relative;
+    top: -3px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gray;
+}
+.learn
+{ 
+  background-color:   rgba(10, 117, 159, 0.737);
+  border-radius: 60px;
+  border: none;
+  width: 160px;
+  height: 45px;
+  font-size: 15px;
+  margin-left: 470px;
+  color: white;
+}
+.API
+{
+  border-radius: 60px;
+  border: none;
+  width: 160px;
+  height: 45px;
+  font-size: 15px;
+  margin-left: 650px;
+  color: black;
+  position: relative;
+  top: -45px;
+  background-color: none;
+  
+}
